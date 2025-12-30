@@ -33,6 +33,7 @@ Each task contains its own README with setup instructions and explanations.
 
 ---
 This repository demonstrates practical AI/ML skills including NLP, computer vision, multimodal learning, and modern LLM-based systems.
+Note: Different tasks use different ML stacks (TensorFlow or PyTorch). Refer to each task's `requirements.txt`.
 
 
 ## What I Learned
