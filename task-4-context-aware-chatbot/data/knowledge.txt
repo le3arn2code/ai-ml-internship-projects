@@ -1,0 +1,7 @@
+DevelopersHub Corporation offers advanced internship programs in AI/ML, DevOps, and Cloud Engineering.
+
+The AI/ML internship focuses on practical machine learning projects including NLP, computer vision, multimodal learning, and deployment.
+
+Interns are expected to complete multiple hands-on tasks, document their work clearly, and submit projects via GitHub.
+
+Context-aware chatbots use Retrieval-Augmented Generation (RAG) to answer questions based on external documents instead of relying only on a language model’s internal knowledge.
