@@ -33,3 +33,9 @@ Each task contains its own README with setup instructions and explanations.
 
 ---
 This repository demonstrates practical AI/ML skills including NLP, computer vision, multimodal learning, and modern LLM-based systems.
+
+
+## What I Learned
+- How to work with pretrained models
+- How to combine multiple data modalities
+- Practical challenges of ML pipelines
